@@ -1,7 +1,7 @@
 {
   "name": "projeto",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kit de ferramentas de automação de tarefas baseada em JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

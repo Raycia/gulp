@@ -1,7 +1,7 @@
 
 body {
-	font-family: 'Roboto', sans-serif;
-	transition: all 0.5s;
+	font-family: 'Poppins', sans-serif;
+	transition: all 0.8s;
 }
 p {
 	margin-bottom: 0px;
@@ -124,7 +124,7 @@ a {
 /* Banner Style */
 .banner {
 	margin-top: 50px;
-	background-image: url(../assets/images/banner-bg.jpg);
+	background-image: url(../dist/images/banner-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 150px 0px;
